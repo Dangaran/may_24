@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Exclude csv
+*.csv
+*.xlsx
+*.pdf
+
+
 # C extensions
 *.so
 
